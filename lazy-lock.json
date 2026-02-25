@@ -1,0 +1,16 @@
+{
+  "diffview.nvim": { "branch": "main", "commit": "4516612fe98ff56ae0415a259ff6361a89419b0a" },
+  "iceberg.vim": { "branch": "master", "commit": "23835d5ed696436f716cbfdb56a93a7850fe3b18" },
+  "lazy.nvim": { "branch": "main", "commit": "306a05526ada86a7b30af95c5cc81ffba93fef97" },
+  "rainbow_csv": { "branch": "master", "commit": "3dbbfd7d17536aebfb80f571255548495574c32b" },
+  "toggleterm.nvim": { "branch": "main", "commit": "50ea089fc548917cc3cc16b46a8211833b9e3c7c" },
+  "vim-airline": { "branch": "master", "commit": "b03fdc542f5155b54959102a2aecaf6c792dce01" },
+  "vim-airline-themes": { "branch": "master", "commit": "77aab8c6cf7179ddb8a05741da7e358a86b2c3ab" },
+  "vim-coffee-script": { "branch": "master", "commit": "28421258a8dde5a50deafbfc19cd9873cacfaa79" },
+  "vim-commentary": { "branch": "master", "commit": "64a654ef4a20db1727938338310209b6a63f60c9" },
+  "vim-devicons": { "branch": "master", "commit": "71f239af28b7214eebb60d4ea5bd040291fb7e33" },
+  "vim-endwise": { "branch": "master", "commit": "4994afb0cdf956d9a665a14b9c834869e602c396" },
+  "vim-fugitive": { "branch": "master", "commit": "61b51c09b7c9ce04e821f6cf76ea4f6f903e3cf4" },
+  "vim-gitgutter": { "branch": "main", "commit": "0acb772e76064cc406664ab595b58b3fac76488a" },
+  "vim-slim": { "branch": "master", "commit": "a0a57f75f20a03d5fa798484743e98f4af623926" }
+}
