@@ -7,7 +7,11 @@ local autocmd = vim.api.nvim_create_autocmd
 
 -- Undoの永続化
 if vim.fn.has('persistent_undo') == 1 then
-  vim.opt.undodir = vim.fn.expand('~/.config/nvim/undo')
+  local undodir = vim.fn.expand('~/.config/nvim/undo')
+  if vim.fn.isdirectory(undodir) == 0 then
+    vim.fn.mkdir(undodir, 'p')
+  end
+  vim.opt.undodir = undodir
   vim.opt.undofile = true
 end
 
